@@ -16,7 +16,7 @@ G54
 ;Digipot Motor currents:
 M907 X0.50000 Y0.50000 Z0.50000 A1.00000 
 ;Home offset (mm):
-M206 X0.00 Y0.00 Z3.50 
+M206 X0.00 Y0.00 Z4.50 
 ;Trim (mm):
 M666 X-0.006 Y0.000 Z-0.063
 ;Max Z
@@ -47,4 +47,3 @@ M670 S5.00 K100.00 R0.00 Z240.00 H5.00 D0.00
 M565 X0.00000 Y0.00000 Z0.00000
 ;Load saved grid
 M375
-7
